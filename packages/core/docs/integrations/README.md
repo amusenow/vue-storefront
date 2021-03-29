@@ -116,9 +116,9 @@ Click on the integration tile to read its documentation.
     name="Adyen"
     image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Adyen_Corporate_Logo.svg/1280px-Adyen_Corporate_Logo.svg.png"
     category="Payment"
-    isOpenSource="true"
-    isWip="true"
+    isEnterprise="true"
     :compatibility="['commercetools']"
+    link="./adyen.html"
   />
   <IntegrationTile
     name="Bloomreach"
